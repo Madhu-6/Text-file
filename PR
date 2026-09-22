@@ -1,0 +1,1 @@
+Calendar on the Birthdate field isn't closing after a date is selected, and once a date is picked, clicking another date doesn't update the value it stays stuck on the first selection. Needs fix so calendar auto-closes and allows re-selecting a new date.
