@@ -1,1 +1,9 @@
 Calendar on the Birthdate field isn't closing after a date is selected, and once a date is picked, clicking another date doesn't update the value it stays stuck on the first selection. Needs fix so calendar auto-closes and allows re-selecting a new date.
+
+
+
+
+
+I'm running into an error while trying to access the shared path, and I suspect it may be a permissions issue on my end. I've attached a screenshot of the error for your reference.
+
+Could you please help me look into this and grant access if needed?
